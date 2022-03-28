@@ -23,3 +23,4 @@ function switchMode(mode) {
     }
 }
 console.log(timer)
+//Hello
